@@ -1,0 +1,19 @@
+.Header{
+   display: flex;
+   justify-content: space-between;
+   background-color: yellow;
+   height: 40px;
+   align-items: center;
+   
+
+}
+
+li{
+    list-style: none;
+    
+}
+
+a{
+    text-decoration: none;
+    color: black;    
+}
